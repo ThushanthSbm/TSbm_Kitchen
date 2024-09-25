@@ -46,7 +46,7 @@ try {
                         confirmButtonText: 'OK'
                     }).then((result) => {
                         if (result.isConfirmed) {
-                            window.location.href = 'http://localhost/Modern-Restaurant-UI/';
+                            window.location.href = 'http://localhost/TSbm_Kitchen/';
                         }
                     });
                 </script>
